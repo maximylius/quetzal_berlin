@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "index": "ztr_0", "a": "zone_0", "b": "27501778", "rank": 0, "distance": 45.096821389625731, "direction": "access", "speed_factor": 0.47485166836405729, "short_leg_speed": 3, "long_leg_speed": 7, "speed": 3.0, "time": 54.116185667550873, "walk_time": 54.116185667550873 }, "geometry": { "type": "LineString", "coordinates": [ [ 13.291942108762417, 52.478734719613975 ], [ 13.2921788, 52.4791138 ] ] } },
 { "type": "Feature", "properties": { "index": "ztr_1", "a": "zone_1", "b": "5233789101", "rank": 0, "distance": 131.06655937252853, "direction": "access", "speed_factor": 0.809526279290946, "short_leg_speed": 3, "long_leg_speed": 7, "speed": 3.0, "time": 157.27987124703424, "walk_time": 157.27987124703424 }, "geometry": { "type": "LineString", "coordinates": [ [ 13.25263254078428, 52.512870738735415 ], [ 13.2531525, 52.5117353 ] ] } },

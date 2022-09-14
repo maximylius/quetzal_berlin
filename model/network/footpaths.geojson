@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "index": "footpath_0", "a": "n_55", "b": "n_147", "length": 928.91068851872876, "voronoi": 1, "time": 1114.6928262224744 }, "geometry": { "type": "LineString", "coordinates": [ [ 13.128928876510738, 52.449949610034814 ], [ 13.137502167606019, 52.45646809694847 ] ] } },
 { "type": "Feature", "properties": { "index": "footpath_1", "a": "n_146", "b": "n_530", "length": 504.32693870780031, "voronoi": 1, "time": 605.19232644936051 }, "geometry": { "type": "LineString", "coordinates": [ [ 13.361225891676156, 52.600017873956276 ], [ 13.35377016079264, 52.599764566877482 ] ] } },
