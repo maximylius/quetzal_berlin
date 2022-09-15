@@ -98,7 +98,6 @@
 { "type": "Feature", "properties": { "index": "zone_93", "uuid": "DEBE03YY6000000D", "sch": "110000030309", "nam": "Buch", "gdf": 631.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.478563095314158, 52.64271362193584 ] } },
 { "type": "Feature", "properties": { "index": "zone_94", "uuid": "DEBE05YYQ000000F", "sch": "110000050505", "nam": "Gatow", "gdf": 10112629.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.167222059782707, 52.485077191695716 ] } },
 { "type": "Feature", "properties": { "index": "zone_95", "uuid": "DEBE05YYQ000000B", "sch": "110000050506", "nam": "Kladow", "gdf": 14779080.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.140986327213191, 52.461004096945977 ] } },
-{ "type": "Feature", "properties": { "index": "zone_96", "uuid": "DEBE09YYO000000H", "sch": "110000090915", "nam": "Schmöckwitz", "gdf": 17124475.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.654091654196234, 52.375080042395126 ] } },
-{ "type": "Feature", "properties": { "index": "zone_97", "uuid": "DEBE03YY6000000D", "sch": "110000030309", "nam": "Buch", "gdf": 631.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.478563095439801, 52.642713621817784 ] } }
+{ "type": "Feature", "properties": { "index": "zone_96", "uuid": "DEBE09YYO000000H", "sch": "110000090915", "nam": "Schmöckwitz", "gdf": 17124475.0, "bezeich": "AX_KommunalesGebiet" }, "geometry": { "type": "Point", "coordinates": [ 13.654091654196234, 52.375080042395126 ] } }
 ]
 }
