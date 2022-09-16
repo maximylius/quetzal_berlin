@@ -3,6 +3,7 @@ destination_choice/
 notebooks/.ipynb*
 notebooks/log/
 # model/
+model/four_steps/
 output/
 input_static/
 input/transport_demand/
