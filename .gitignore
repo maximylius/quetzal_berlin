@@ -2,7 +2,7 @@ Archive/
 destination_choice/
 notebooks/.ipynb*
 notebooks/log/
-# model/
+model/
 model/four_steps/
 model/los_tables/
 model/four_steps/*
