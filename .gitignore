@@ -4,6 +4,9 @@ notebooks/.ipynb*
 notebooks/log/
 # model/
 model/four_steps/
+model/los_tables/
+model/four_steps/*
+model/los_tables/*
 output/
 input_static/
 input/transport_demand/
