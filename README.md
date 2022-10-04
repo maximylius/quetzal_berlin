@@ -12,10 +12,18 @@ This project was developed for the course Operations Research - Modeling Sustain
 The directory structure is straight-forward:
 > quetzal_berlin/</br>
 > -- input/</br>
+> -- --  transport_stats/</br>
+> -- --  ungenutzt/</br>
+> -- --  validation/</br>
+> -- --  zone_stats/</br>
+> -- --  zones/</br> 
 > -- literatur/</br>
 > -- model/</br>
+> -- -- network/</br> 
+> -- -- zones/</br> 
 > -- notebooks/</br>
 > -- outputs/</br>
+> -- --  plots/</br> 
 
 While input and output data as well as (temporary) model files are stored in seperate folders, Jupyter Notebooks contain all data management and modelling. Briefly, they are structured as follows (`X` as wildcard):
 *  00_environment_test
