@@ -1,7 +1,7 @@
 # quetzal Berlin
 This open source project is a macroscopic passenger transport model for the region of Germany. It supports research aimed at designing an integrated, renewable energy system with mobility behaviour insights.
 
-It uses the quetzal transport modelling framework: https://github.com/systragroup/quetzal
+It uses the quetzal transport modelling framework: https://github.com/systragroup/quetzal and is based on https://github.com/marlinarnz/quetzal_germany and https://github.com/systragroup/quetzal_paris.
 
 The method is oriented towards classical four-step transport modelling. Focus lies on mode choice by using a purpose-segmented logit model.
 
