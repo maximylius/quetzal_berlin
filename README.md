@@ -38,7 +38,6 @@ While input and output data as well as (temporary) model files are stored in sep
 1. Create a virtual environment for quetzal models: Clone the quetzal package into a local folder and create a virtual environment as described here *[1]*: https://github.com/systragroup/quetzal
 2. Activate your quetzal environment, if not done yet
 3. Clone this repository into a local folder: In your terminal, navigate to the position where you want to store the code. Type `git clone <this repo's URL>`. Navigate into the folder `quetzal_berlin`.
-4. Download static input files from Zenodo *[2]* into a folder named `input_static/` within the `quetzal_germany` repository (see Structure): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5659679.svg)](https://doi.org/10.5281/zenodo.5659679)
 5. Open the local project in Jupyter Notebook (in your terminal type `jupyter notebook`) and start running the notebooks
 
 You can test your virtual environment by running the `00_environment_test` notebook.
